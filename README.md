@@ -4,6 +4,9 @@
 >  A historical aggregation of every film that has ever appeared in IMDb Top 250.
 
 ------
+## 立刻访问
+
+https://gxj8885718.github.io/imdb_top250/imdb.html
 
 ## 📖 项目简介
 
